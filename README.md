@@ -1,4 +1,4 @@
-#### Weather App - Frontend (React + Vite + TailwildCss)
+# 🌦 Weather App - Frontend (React + Vite + TailwildCss)
 
 <img width="1919" height="1136" alt="Screenshot 2025-08-10 234814" src="https://github.com/user-attachments/assets/9460c9fe-1fa0-48e7-95da-9a1ded8fe47b" />
 
